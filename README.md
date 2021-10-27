@@ -6,6 +6,8 @@ Asanuly Alikhan - 'login' and 'protected' functions
 
 Malikov Alan - Database and coonection it to the python, little part of 'protected' functions
 
+Kurmangali Sanzhar - readme.md file
+
 # Installation
 Firstly, you need to download 'Flask' 
 using
