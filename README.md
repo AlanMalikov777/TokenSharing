@@ -1,5 +1,5 @@
 # TokenSharing
-Program that gives tokens to the users 
+Program that gives tokens to the users and save it in database
 
 # Team
 Asanuly Alikhan - 'login' and 'protected' functions 
