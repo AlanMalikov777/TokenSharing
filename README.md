@@ -1,15 +1,26 @@
 # TokenSharing
-Program that scraps information about specific cryptocurrenct. 
+Program that gives tokens to the users 
+
+# Team
+Asanuly Alikhan-
+
+Malikov Alan-
+
+Kurmangali Sanzhar-
 
 # Installation
-Firstly, you need to download 'requests' 
+Firstly, you need to download 'Flask' 
 using
 ```bash
-pip install requests
+pip install Flask
 ```
-Secondly, you need to download 'beautifulsoup4' 
+Secondly, you need to download 'Flask-SQLAlchemy' 
 ```bash
-pip install beautifulsoup4
+pip install Flask-SQLAlchemy
+```
+Thirdly, you need to download 'pyjwt'
+```bash
+pip install pyjwt
 ```
 # Usage
 Run test.py from test folder, use a direcory to the folder test and run it with this command in cmd or other termianls (src and test folders should be lockated in one package)
@@ -18,9 +29,9 @@ python test.py
 ```
 Or copy all code from assignment1 file which located in src folder 
 # Examples
-You need to enter a specific cryptocurrency, for example, "bitcoin", best case is using lower case letters, and program will give first 20 post about have written cryptocurrency by coingecko website:
+You need to login and give a password, with writing '\login', after that you need to write in URL place '\protected' and program will give a token and save it in Postresql table.
 ``` bash
-python test.py
+'code'
 ```
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
