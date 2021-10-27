@@ -27,6 +27,7 @@ Run test.py from test folder, use a direcory to the folder test and run it with 
 ``` bash
 python test.py
 ```
+Alternative is taking python files from src and use it by your own.
 Or copy all code from assignment1 file which located in src folder 
 # Examples
 You need to login and give a password, it will give a token, after that you need to write in URL place '\protected?token='given token'' and program will save it in Postresql table.
