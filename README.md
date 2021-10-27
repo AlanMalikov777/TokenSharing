@@ -2,11 +2,11 @@
 Program that gives tokens to the users 
 
 # Team
-Asanuly Alikhan-
+Asanuly Alikhan - 'login' and protected functions 
 
-Malikov Alan-
+Malikov Alan - Database and coonection it to the python
 
-Kurmangali Sanzhar-
+Kurmangali Sanzhar -
 
 # Installation
 Firstly, you need to download 'Flask' 
