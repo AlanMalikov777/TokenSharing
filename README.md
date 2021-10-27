@@ -2,7 +2,7 @@
 Program that gives tokens to the users 
 
 # Team
-Asanuly Alikhan - 'login' and protected functions 
+Asanuly Alikhan - 'login' and 'protected' functions 
 
 Malikov Alan - Database and coonection it to the python
 
